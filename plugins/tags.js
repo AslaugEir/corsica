@@ -16,13 +16,7 @@ module.exports = function (corsica) {
   var subscriptions = {};
 
   var settings = corsica.settings.setup('tags', {
-    _skipUI: true,
-    tags: [
-      {
-        name: 'default',
-        commands: ['http://www.dagskammtur.is/matsedill.htm'],
-      },
-    ],
+    _skipUI: true
   });
 
   var insecureScrub = function(str) {

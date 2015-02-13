@@ -1,0 +1,19 @@
+{
+    "settings::timer": {},
+    "settings::tags": {
+        "tags": [
+            {
+                "name": "default",
+                "commands": [
+                    "dagskammtur"
+                ]
+            },
+            {
+                "name": "tech",
+                "commands": [
+                    "http://xkcd.com/"
+                ]
+            }
+        ]
+    }
+}
