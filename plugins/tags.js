@@ -20,7 +20,7 @@ module.exports = function (corsica) {
     tags: [
       {
         name: 'default',
-        commands: ['http://xkcd.com'],
+        commands: ['http://www.dagskammtur.is/matsedill.htm'],
       },
     ],
   });
