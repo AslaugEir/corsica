@@ -19,6 +19,7 @@
   "dependencies": {
     "cheerio": "^0.18.0",
     "corsica-dagskammtur": "^1.0.3",
+    "corsica-image": "^0.2.2",
     "es6-promise": "0.1.2",
     "express": "3.4.8",
     "minimatch": "0.2.14",
