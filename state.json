@@ -10,9 +10,7 @@
             },
             {
                 "name": "tech",
-                "commands": [
-                    "http://xkcd.com/"
-                ]
+                "commands": []
             }
         ]
     }
