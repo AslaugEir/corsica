@@ -10,7 +10,9 @@
             },
             {
                 "name": "tech",
-                "commands": []
+                "commands": [
+                    "http://jenkins.coredata.is/monitor/"    
+                ]
             }
         ]
     }
