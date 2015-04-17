@@ -1,0 +1,25 @@
+{
+    "settings::timer": {},
+    "settings::tags": {
+        "tags": [
+            {
+                "name": "default",
+                "commands": [
+                    "dagskammtur"
+                ]
+            },
+            {
+                "name": "tech",
+                "commands": [
+                    "http://jenkins.coredata.is/monitor/"
+                ]
+            },
+            {
+                "name": "ui",
+                "commands": [
+                    "http://logstash.coredata.is/#/dashboard/elasticsearch/Useragent"
+                ]
+            }
+        ]
+    }
+}
